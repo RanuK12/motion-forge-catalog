@@ -1,0 +1,17 @@
+[
+  {
+    "product": "datacanvas-test",
+    "video_1080p": "datacanvas-test_1080p.mp4",
+    "video_720p": "datacanvas-test_720p.mp4"
+  },
+  {
+    "product": "reveal-test",
+    "video_1080p": "reveal-test_1080p.mp4",
+    "video_720p": "reveal-test_720p.mp4"
+  },
+  {
+    "product": "ranuk-profit-test",
+    "video_1080p": "ranuk-profit-test_1080p.mp4",
+    "video_720p": "ranuk-profit-test_720p.mp4"
+  }
+]
